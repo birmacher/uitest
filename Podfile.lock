@@ -1,0 +1,12 @@
+PODS:
+  - UIScreenCapture (0.0.5)
+
+DEPENDENCIES:
+  - UIScreenCapture (~> 0.0.5)
+
+SPEC CHECKSUMS:
+  UIScreenCapture: eb4d511e063eb5b5d84ac986e08cb842b56f8ccf
+
+PODFILE CHECKSUM: 2e9d170052b2dabc790d49dfe0618fe11b2c3138
+
+COCOAPODS: 1.1.1
